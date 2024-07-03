@@ -16,13 +16,11 @@
 
 My name is Muhammad Fadly Saripudin a.k.a Naoko Shoto.
 <br />
-I'm almost 22 years old and my birthday is on 13 July.
-<br />
 I live in Indonesia, so stop banging me when I sleep.
 
 - 🌏 He/Him from Indonesia
 - 💻 A basic guy from Indonesia with a bit of knowledge of Android Development
-- 🎨 I’m currently working on [MIUI Monet Project](https://github.com/MIUI-Monet-Project)
+- 🎨 I’m currently working on [Monet Project](https://github.com/MIUI-Monet-Project)
 - 🛠 Also, an official maintainer of [AlphaDroid](https://github.com/AlphaDroid-Project) for [Xiaomi codename Camellia](https://sourceforge.net/projects/alphadroid-project/files/camellia/)
 - 🖼 I'm really into graphic designing and cosplaying too. If you want to take a look, you can check out my [Instagram](https://www.instagram.com/naokoshoto) to see what I've been up to
 
