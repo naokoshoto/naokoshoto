@@ -10,8 +10,7 @@
 # 💡 About
 
 <a href="https://github.com/naokoshoto">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=naokoshoto&theme=dark&show_icons=true)">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=naokoshoto&theme=dark">
+  <img align="right" width="50%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true">
 </a>
 
 My name is Muhammad Fadly Saripudin a.k.a Naoko Shoto.
