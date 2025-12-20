@@ -13,14 +13,14 @@
 ## 💡 About Me  
 
 <a href="https://github.com/naokoshoto">
-  <img align="right" width="48%" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true" />
+  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true" />
 </a>
 
 Hello! I’m **Muhammad Fadly Saripudin** — better known as **Naoko Shoto**.  
 I’m a developer and open-source contributor from **Indonesia**, primarily focused on **Android ROM development**, **UI/UX enhancements**, and **system-level optimizations**.  
 
 - 💻 Contributor to **[Monet Project](https://github.com/MIUI-Monet-Project)**  
-- ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** (devices: [Camellia](https://sourceforge.net/projects/alphadroid-project/files/camellia/) & [Beryl](https://sourceforge.net/projects/alphadroid-project/files/beryl/))  
+- ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (devices: Camellia & Beryl)
 - 🛠 Experienced in **Android development, custom ROM building, and system integrations**  
 - 🎨 Additional expertise in **graphic design** (Photoshop, Illustrator, Figma, Canva)  
 
@@ -77,7 +77,7 @@ I’m a developer and open-source contributor from **Indonesia**, primarily focu
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naokoshoto&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naokoshoto&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
