@@ -13,13 +13,12 @@
 ## 💡 About Me  
 
 <a href="https://github.com/naokoshoto">
-  <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true" />
+  <img align="right" width="48%" src="https://github-readme-stats.zcy.dev/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true" />
 </a>
 
 Hello! I’m **Muhammad Fadly Saripudin** — better known as **Naoko Shoto**.  
 I’m a developer and open-source contributor from **Indonesia**, primarily focused on **Android ROM development**, **UI/UX enhancements**, and **system-level optimizations**.  
 
-- 💻 Contributor to **[Monet Project](https://github.com/MIUI-Monet-Project)**  
 - ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (devices: Camellia & Beryl)
 - 🛠 Experienced in **Android development, custom ROM building, and system integrations**  
 - 🎨 Additional expertise in **graphic design** (Photoshop, Illustrator, Figma, Canva)  
@@ -80,29 +79,4 @@ I’m a developer and open-source contributor from **Indonesia**, primarily focu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naokoshoto&theme=gruvbox&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
-## 📌 Featured Projects  
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/MIUI-Monet-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIUI-Monet-Project&repo=module&theme=gruvbox&show_owner=true" />
-      </a>
-      <br />
-      <b>🎨 Monet Project</b>
-      <br />
-      <sub>Bringing Material You theming to MIUI</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/AlphaDroid-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlphaDroid-Project&repo=manifest&theme=gruvbox&show_owner=true" />
-      </a>
-      <br />
-      <b>⚡ AlphaDroid</b>
-      <br />
-      <sub>Custom ROM focused on speed, stability, and features</sub>
-    </td>
-  </tr>
-</table>
