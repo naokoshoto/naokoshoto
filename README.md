@@ -19,7 +19,7 @@
 Hello! I’m **Muhammad Fadly Saripudin** — better known as **Naoko Shoto**.  
 I’m a developer and open-source contributor from **Indonesia**, primarily focused on **Android ROM development**, **UI/UX enhancements**, and **system-level optimizations**.  
 
-- ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (devices: Camellia & [Beryl (on org)]([url](https://github.com/TracenPlayground/)))
+- ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (devices: Camellia & [Beryl](https://github.com/TracenPlayground/))
 - 🛠 Experienced in **Android development, custom ROM building, and system integrations**  
 - 🎨 Additional expertise in **graphic design** (Photoshop, Illustrator, Figma, Canva)  
 
