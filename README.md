@@ -16,12 +16,14 @@
   <img align="right" width="48%" src="https://github-readme-stats.zcy.dev/api?show_bg=1&username=naokoshoto&theme=gruvbox&count_private=true" />
 </a>
 
-Hello! I’m **Muhammad Fadly Saripudin** — better known as **Naoko Shoto**.  
-I’m a developer and open-source contributor from **Indonesia**, primarily focused on **Android ROM development**, **UI/UX enhancements**, and **system-level optimizations**.  
-
-- ⚡ Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (devices: Camellia & [Beryl](https://github.com/TracenPlayground/))
-- 🛠 Experienced in **Android development, custom ROM building, and system integrations**  
-- 🎨 Additional expertise in **graphic design** (Photoshop, Illustrator, Figma, Canva)  
+Hello! I’m **Muhammad Fadly Saripudin** — better known as **Naoko Shoto**.
+I am a **multidisciplinary creative professional and developer** from **Indonesia** with over 4 years of experience bridging design and functionality. I specialize in **graphic design, web development, Android ROM building**, and **system-level optimizations**, bringing ideas to life through engaging visuals and high-performance technical execution.
+* **Android & System Development:** Official maintainer for **[AlphaDroid](https://github.com/AlphaDroid-Project)** and **[Halcyon](https://github.com/halcyonproject)** (Devices: Camellia & **[Beryl](https://github.com/TracenPlayground/)**). Currently focusing my engineering efforts on **[Tracen Playgrounds](https://github.com/TracenPlayground/)**.
+* **Creative Direction & UI/UX:** Experienced in leading web projects, building brand visual identities, and managing content campaigns (with a strong background in footwear brands).
+* **Design Expertise:** Highly proficient in **Photoshop, Illustrator, Figma, and Canva** for crafting digital assets, guided by modern, minimalist principles for maximum clarity and impact.
+* **Creative Approach:** I draw storytelling inspiration from **Japanese and Indonesian pop culture**, blending these cultural influences with new technologies to build interactive experiences that connect with audiences and drive business goals.
+> 
+>
 
 ---
 
